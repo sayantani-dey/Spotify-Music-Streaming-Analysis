@@ -4,3 +4,8 @@ This Power BI dashboard provides an insightful overview of music streaming data 
 Link to dataset: https://onyxdata.ck.page/a12261b1fb
 # Overview of Dashboard:
 ![Screenshot (101)](https://github.com/sayantani-dey/Spotify-Music-Streaming-Analysis/assets/88243330/e40dd27f-5aa3-459a-862d-5c236eba5c43)
+
+*Updated:
+- The dataset was normalized to 1NF for better analysis of data.
+- Metrics like levels of danceability, liveness, acoustic and energy were also added to give more information about tracks.
+![Screenshot (102)](https://github.com/sayantani-dey/Spotify-Music-Streaming-Analysis/assets/88243330/adbbd64c-2087-4860-80c6-816ead7d0e74)
